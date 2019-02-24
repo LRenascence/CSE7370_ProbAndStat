@@ -1,0 +1,4 @@
+CSE 7370: PROBABILITY AND STATISTICS FOR SCIENTISTS AND ENGINEERS
+Spring 2019
+
+include formula implemented in Python
